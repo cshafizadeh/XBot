@@ -1,6 +1,6 @@
 # XBot
 # How It Works:
-The Motivation Bot Lambda Function operates as an automated system for generating and posting motivational tweets on Twitter. The process involves several steps to ensure the tweets are engaging, contextually relevant, and aligned with your desired content.
+The Motivation Bot operates as an automated system for generating and posting motivational tweets on Twitter. The process involves several steps to ensure the tweets are engaging, contextually relevant, and aligned with your desired content.
 
 # Authentication:
 The first step is to authenticate with the Twitter API using your Twitter Developer account credentials. This authentication allows the Lambda function to access your Twitter account and post tweets on your behalf.
