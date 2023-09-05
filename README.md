@@ -22,5 +22,5 @@ After posting the tweet, the code function provides a response that indicates th
 
 By combining the capabilities of the OpenAI API, the Twitter API, the Firestore database, and AWS, the Motivation Bot Function streamlines the process of generating and posting motivational content on Twitter. The integration of past conversations ensures that the generated tweets are contextually relevant and aligned with the ongoing conversation, creating a more engaging and personalized experience for your audience.
 
-### Languages/Technologies Used:
+## Languages/Technologies Used:
 Javascript, OpenAI API, Twitter API, OAuth2 Authentication, Firebase, Node.js
