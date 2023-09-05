@@ -1,4 +1,7 @@
 # XBot
+# Try It Yourself
+Go to https://us-central1-xbot-a5127.cloudfunctions.net/tweet and wait for the response. Then, check out https://twitter.com/MotivativeWords and you will see your tweet has been posted!
+
 # How It Works:
 The Motivation Bot operates as an automated system for generating and posting motivational tweets on Twitter. The process involves several steps to ensure the tweets are engaging, contextually relevant, and aligned with your desired content.
 
